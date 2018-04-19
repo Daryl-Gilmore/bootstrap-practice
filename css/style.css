@@ -1,3 +1,19 @@
 .my-btn {
   background-color: purple;
 }
+.nav-pills {
+  background-color: red;
+}
+.jumbotron {
+  height: 750px;
+}
+.learn .more {
+  width: 25%;
+  padding: 25px;
+  background-color: purple;
+  color: white;
+  font-size: 25px;
+}
+.spacer {
+  margin-top: 75px;
+}
